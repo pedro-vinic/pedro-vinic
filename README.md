@@ -8,7 +8,7 @@
 
 🧑‍🎓 Sou estudante de Engenharia de Software<br>
 📖 Estou aprendendo Python, SQL e DJANGO<br>
-📚 Aprendi sobre Javascript e HTML, mas minha paixão é Python<br>
+📚 Aprendi sobre Javascript, HTML e CSS, mas minha paixão é Python<br>
 👨‍💻 Estou buscando minha primeira oportunidade de trabalho na área<br>
 🚠 Morador da cidade do Rio de Janeiro, tenho 25 anos
 <br>
@@ -21,4 +21,10 @@
 <br>
 
 ## Conhecimentos
+
+![MariaDB Badge](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) &nbsp;
+![Javascript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) &nbsp;
+![Html Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) &nbsp;
+![Css Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<br>
 
