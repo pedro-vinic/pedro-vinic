@@ -28,3 +28,10 @@
 ![Css Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 <br>
 
+## Ferramentas
+
+![Git Badge](https://img.shields.io/badge/-git-black?style=for-the-badge&logo=Git) &nbsp;
+![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) &nbsp;
+![Windows Badge](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
+<br>
+
