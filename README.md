@@ -7,7 +7,7 @@
 
 ## 🚀 Sobre mim
 
-Sou estudante de Engenharia de Software com foco em desenvolvimento backend e integração com banco de dados.
+Sou estudante de Sistemas de Informação com foco em desenvolvimento backend e integração com banco de dados.
 
 Tenho construído projetos práticos para consolidar fundamentos sólidos em:
 
