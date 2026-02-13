@@ -1,35 +1,39 @@
 # 👋 Pedro Vinícius
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-323330?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/pedrovinnic/) &nbsp;
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-323330?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/pedrovinnic/) &nbsp;
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/M2BPVWVHLVW7K1)
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou estudante de Engenharia de Software com foco em desenvolvimento backend e dados.
+Sou estudante de Engenharia de Software com foco em desenvolvimento backend e integração com banco de dados.
 
-Atualmente estou aprofundando meus conhecimentos em:
+Tenho construído projetos práticos para consolidar fundamentos sólidos em:
 
-- 🐍 Python (arquitetura modular, tratamento de exceções, integração com banco)
+- 🐍 Python (arquitetura modular, tratamento estruturado de exceções)
 - 🗄️ SQL e modelagem relacional
 - 🔗 Integração Python + MySQL
-- 📊 Geração de relatórios a partir de dados reais
+- 📊 Geração de relatórios e análise de dados
 
-Estou construindo projetos práticos para consolidar minha base técnica e evoluir de forma consistente na área de tecnologia.
+Estou evoluindo de forma consistente na área de tecnologia, desenvolvendo aplicações que conectam lógica de programação, persistência de dados e análise.
 
 📍 Rio de Janeiro  
 🎯 Buscando minha primeira oportunidade na área de desenvolvimento ou dados  
 
 ---
 
-## 🧠 Tecnologias
+## 🧠 Tecnologias Principais
 
 ![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![MySQL Badge](https://img.shields.io/badge/MySQL-003545?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL Badge](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+## 📚 Conhecimentos Complementares
+
+JavaScript • HTML • CSS
 
 ---
 
@@ -44,10 +48,15 @@ Estou construindo projetos práticos para consolidar minha base técnica e evolu
 
 ## 📌 Projetos em Destaque
 
-🔹 Calculator Data Logger  
-Aplicação em Python com persistência em MySQL e geração de relatórios analíticos.  
-Demonstra integração backend + banco de dados + SQL analytics.
+### 📊 Calculator Data Logger
+Aplicação em Python que evolui uma calculadora simples para um sistema com persistência em MySQL e geração de relatórios analíticos.
 
-(Em constante evolução 🚀)
+O projeto demonstra:
 
+- Arquitetura modular
+- Tratamento estruturado de exceções
+- Persistência em banco relacional
+- Consultas analíticas com SQL
+- Exportação de relatórios em CSV
 
+🔗 Em constante evolução 🚀
